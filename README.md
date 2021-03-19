@@ -10,6 +10,7 @@
 - [Environment Setup and Installation](#env)
 - [Local Deployment](#deploy1)
 - [Google Cloud Deployment](#deploy2)
+- [Contact](#contact)
 </details>
 
 - - - -
@@ -40,3 +41,6 @@ Replicate the library's dependencies in the lib folder:
 Deploy on Google Cloud through Google Cloud SDK shell:
 `gcloud init`
 `gcloud app deploy app.yaml`
+
+## Contact <a name="contact"/>
+christinazhang2013@gmail.com
