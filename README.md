@@ -24,7 +24,7 @@
 ## Environment Setup and Installation <a name="env"/>
 Create the virtual environment (Windows):
 
-``` virtualenv venv ```
+`virtualenv venv`
 
 Activate the virtual environment (Windows):
 
